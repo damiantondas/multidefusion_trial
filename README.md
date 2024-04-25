@@ -2,8 +2,6 @@
 
 The following repository has been created as a trial dataset for the MultiDEFusion library.
 The dataset can be downloaded from GitHub or Zenodo platform.
-The complete documentation of the MultiDEFusion repository can be found at:
-**https://damiantondas.github.io/multidefusion/**
 
 ## Cloning the repository from GitHub
 
